@@ -62,6 +62,35 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 </table>
 
 
+🛠 Projects
+======
+<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
+  <tr>
+    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
+      <img src="https://muyaoyuan.github.io/images/project_MLLM.svg" width="220" style="display: block;"/>
+    </td>
+    <td style="vertical-align: middle; padding: 12px;">
+      <b style="font-size: 18px;">Efficient Training and Inference of Multimodal Foundation Models.</b><br/><br/>
+      <!-- <a href="https://github.com/MuyaoYuan/Edge-Adapt" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Code</a> -->
+      <a href="https://muyaoyuan.github.io/404" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
+    </td>
+  </tr>
+</table>
+
+<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
+  <tr>
+    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
+      <img src="https://muyaoyuan.github.io/images/project_compression.png" width="220" style="display: block;"/>
+    </td>
+    <td style="vertical-align: middle; padding: 12px;">
+      <b style="font-size: 18px;">Lightweight and Efficient Model Design for Diverse Tasks.</b><br/><br/>
+      <!-- <a href="https://github.com/MuyaoYuan/Edge-Adapt" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Code</a> -->
+      <a href="https://muyaoyuan.github.io/404" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
+    </td>
+  </tr>
+</table>
+
+
 🏆 Selected Awards
 ======
   - Outstanding Graduate, Xi’an Jiaotong University, 2022. [[Certificate]](https://muyaoyuan.github.io/images/Outstanding_Graduate.jpg)  
