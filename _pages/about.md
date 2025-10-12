@@ -25,7 +25,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       Y. Zhang*, <b>M. Yuan*</b>, W. Zhang, T. Gong, W. Wen, J. Ying, W. Shi<br/>
       <i>In: International Conference on Machine Learning (<b>ICML Spotlight</b>), 2025</i><br/><br/>
       <a href="https://muyaoyuan.github.io/InfoSAM_Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Project Page</a>
-      <a href="https://arxiv.org/pdf/2505.21920" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
+      <a href="https://openreview.net/pdf?id=VpBBw1bL47" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
       <a href="https://github.com/MuyaoYuan/InfoSAM" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a>
     </td>
   </tr>
