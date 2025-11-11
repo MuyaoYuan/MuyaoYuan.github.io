@@ -11,10 +11,27 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 🔥 News
 ======
+- 📅 **[2025.11]** 🎉 Our paper titled _“InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer”_ has been accepted by **AAAI 2026**!
 - 📅 **[2025.05]** 🎉 Our paper titled _“InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective”_ has been accepted as a **Spotlight Poster** at **ICML 2025**!
 
 📝 Publications
 ======
+<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
+  <tr>
+    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
+      <img src="/images/infoclip.svg" width="220" style="display: block;"/>
+    </td>
+    <td style="vertical-align: middle; padding: 12px;">
+      <b style="font-size: 18px;">InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer.</b><br/>
+      M. Yuan, <b>Y. Zhang</b>, W. Zhang, L. Ma, Y. Gao, J. Ying, Y. Xin<br/>
+      <i>In: AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2026</i><br/><br/>
+      <a href="https://muyaoyuan.github.io/InfoCLIP-Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Project Page</a>
+      <!-- <a href="https://openreview.net/pdf?id=VpBBw1bL47" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
+      <a href="https://github.com/MuyaoYuan/InfoSAM" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a> -->
+    </td>
+  </tr>
+</table>
+
 <table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
   <tr>
     <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
