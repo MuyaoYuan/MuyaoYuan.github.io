@@ -26,8 +26,8 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       <b>M. Yuan</b>, Y. Zhang, W. Zhang, L. Ma, Y. Gao, J. Ying, Y. Xin<br/>
       <i>In: AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2026</i><br/><br/>
       <a href="https://muyaoyuan.github.io/InfoCLIP-Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Project Page</a>
-      <!-- <a href="https://openreview.net/pdf?id=VpBBw1bL47" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
-      <a href="https://github.com/MuyaoYuan/InfoSAM" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a> -->
+      <a href="https://arxiv.org/pdf/2511.15967" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
+      <!-- <a href="https://github.com/MuyaoYuan/InfoSAM" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a> -->
     </td>
   </tr>
 </table>
