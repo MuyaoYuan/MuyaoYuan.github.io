@@ -143,3 +143,8 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 🏢 Internships
 ======
 - **2023.10 – 2024.11**, China Telecom Artificial Intelligence Technology, Beijing.
+- **2025.10 – 2025.11**, E-surfing Vision Technology, Shanghai.
+
+🎓 Academic Service
+======
+- Reviewer for CVPR, AAAI, TMC, Neural Computation, Neural Networks.
