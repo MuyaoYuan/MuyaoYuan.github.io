@@ -123,6 +123,8 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 🏆 Selected Awards
 ======
+  - Special Class Academic Scholarship, Xi’an Jiaotong University, 2025.
+  - Excellent Postgraduate, Xi’an Jiaotong University, 2025.
   - Outstanding Graduate, Xi’an Jiaotong University, 2022. [[Certificate]](/images/Outstanding_Graduate.jpg)  
   - First Prize Scholarship, Xi’an Jiaotong University, 2020. [[Certificate]](/images/First_Prize_Scholarship.jpg)  
   - National Second Prize, WeChat Mini Program Development Competition, 2020. [[Certificate]](/images/wechat.jpg)  
