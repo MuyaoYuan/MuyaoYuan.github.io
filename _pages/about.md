@@ -131,7 +131,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     <div class="pub-meta">
       <span><b>M. Yuan</b>, Y. Zhang, W. Zhang, L. Ma, Y. Gao, J. Ying, Y. Xin</span>
       <span><i>AAAI Conference on Artificial Intelligence (AAAI), 2026</i></span>
-    </div><br>
+    </div>
     <a class="pub-button" href="https://muyaoyuan.github.io/InfoCLIP-Page/">Project Page</a>
     <a class="pub-button" href="https://arxiv.org/pdf/2511.15967">PDF</a>
   </div>
@@ -148,7 +148,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     <div class="pub-meta">
       <span>Y. Zhang*, <b>M. Yuan*</b>, W. Zhang, T. Gong, W. Wen, J. Ying, W. Shi</span>
       <span><i>International Conference on Machine Learning (ICML Spotlight), 2025</i></span>
-    </div><br>
+    </div>
     <a class="pub-button" href="https://muyaoyuan.github.io/InfoSAM_Page/">Project Page</a>
     <a class="pub-button" href="https://openreview.net/pdf?id=VpBBw1bL47">PDF</a>
     <a class="pub-button" href="https://github.com/MuyaoYuan/InfoSAM">Code</a>
@@ -166,7 +166,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     <div class="pub-meta">
       <span><b>M. Yuan</b>, W. Zhang, C. Yan, T. Gong, Y. Zhang, J. Ying</span>
       <span><i>Knowledge-Based Systems (KBS), 2024</i></span>
-    </div><br>
+    </div>
     <a class="pub-button" href="https://doi.org/10.1016/j.knosys.2024.112036">PDF</a>
   </div>
 </div>
@@ -182,7 +182,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     <div class="pub-meta">
       <span>Y. Zhang, W. Zhang, <b>M. Yuan</b>, L. Xu, C. Yan, T. Gong, H. Du</span>
       <span><i>IEEE Transactions on Mobile Computing (TMC), 2025</i></span>
-    </div><br>
+    </div>
     <a class="pub-button" href="https://ieeexplore.ieee.org/document/10829727">PDF</a>
   </div>
 </div>
@@ -201,7 +201,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     </a>
     <div class="pub-meta">
       <span>Multimodal foundation models, efficient training and inference</span>
-    </div><br>
+    </div>
     <a class="pub-button" href="/portfolio/portfolio-1">Project Page</a>
   </div>
 </div>
@@ -216,7 +216,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     </a>
     <div class="pub-meta">
       <span>Model compression and efficient architecture design</span>
-    </div><br>
+    </div>
     <a class="pub-button" href="/portfolio/portfolio-2">Project Page</a>
   </div>
 </div>
