@@ -10,11 +10,11 @@ redirect_from:
 <style>
 .pub-item {
   display: flex;
-  align-items: center;
   gap: 24px;
+  align-items: center;
   padding-bottom: 28px;
   margin-bottom: 28px;
-  border-bottom: 1px solid #eee; /* 分割线 */
+  border-bottom: 1px solid #eee;
 }
 
 .pub-image {
@@ -31,10 +31,11 @@ redirect_from:
   line-height: 1.6;
 }
 
+/* ===== 标题：蓝色可点击 ===== */
 .pub-title {
   font-size: 18px;
-  font-weight: bold;
-  color: #000;
+  font-weight: 600;
+  color: #1a0dab;        /* 标准学术蓝 */
   text-decoration: none;
 }
 
@@ -42,7 +43,33 @@ redirect_from:
   text-decoration: underline;
 }
 
-/* ===== 手机端优化 ===== */
+/* ===== 作者 & venue：item 点（桌面 + 手机） ===== */
+.pub-meta span {
+  display: block;
+  position: relative;
+  padding-left: 14px;
+}
+
+.pub-meta span::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #999;
+}
+
+/* ===== 按钮（仅桌面显示） ===== */
+.pub-button {
+  display: inline-block;
+  padding: 6px 12px;
+  background: #333;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+/* ===== 手机端 ===== */
 @media (max-width: 768px) {
   .pub-item {
     flex-direction: column-reverse;
@@ -54,22 +81,9 @@ redirect_from:
     max-width: 420px;
   }
 
-  .pub-meta span {
-    display: block;
-    position: relative;
-    padding-left: 14px;
-  }
-
-  .pub-meta span::before {
-    content: "•";
-    position: absolute;
-    left: 0;
-    color: #999;
-  }
-
-  .pub-content a.button {
-    display: inline-block;
-    margin-bottom: 8px;
+  /* 手机端隐藏所有按钮 */
+  .pub-button {
+    display: none;
   }
 }
 </style>
@@ -99,8 +113,8 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       <span><b>M. Yuan</b>, Y. Zhang, W. Zhang, L. Ma, Y. Gao, J. Ying, Y. Xin</span>
       <span><i>AAAI Conference on Artificial Intelligence (AAAI), 2026</i></span>
     </div><br>
-    <a class="pub-button" href="https://muyaoyuan.github.io/InfoCLIP-Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
-    <a class="pub-button" href="https://arxiv.org/pdf/2511.15967" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">PDF</a>
+    <a class="pub-button" href="https://muyaoyuan.github.io/InfoCLIP-Page/">Project Page</a>
+    <a class="pub-button" href="https://arxiv.org/pdf/2511.15967">PDF</a>
   </div>
 </div>
 
@@ -116,9 +130,9 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       <span>Y. Zhang*, <b>M. Yuan*</b>, W. Zhang, T. Gong, W. Wen, J. Ying, W. Shi</span>
       <span><i>International Conference on Machine Learning (ICML Spotlight), 2025</i></span>
     </div><br>
-    <a class="pub-button" href="https://muyaoyuan.github.io/InfoSAM_Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
-    <a class="pub-button" href="https://openreview.net/pdf?id=VpBBw1bL47" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">PDF</a>
-    <a class="pub-button" href="https://github.com/MuyaoYuan/InfoSAM" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a>
+    <a class="pub-button" href="https://muyaoyuan.github.io/InfoSAM_Page/">Project Page</a>
+    <a class="pub-button" href="https://openreview.net/pdf?id=VpBBw1bL47">PDF</a>
+    <a class="pub-button" href="https://github.com/MuyaoYuan/InfoSAM">Code</a>
   </div>
 </div>
 
@@ -134,7 +148,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       <span><b>M. Yuan</b>, W. Zhang, C. Yan, T. Gong, Y. Zhang, J. Ying</span>
       <span><i>Knowledge-Based Systems (KBS), 2024</i></span>
     </div><br>
-    <a class="pub-button" href="https://doi.org/10.1016/j.knosys.2024.112036" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">PDF</a>
+    <a class="pub-button" href="https://doi.org/10.1016/j.knosys.2024.112036">PDF</a>
   </div>
 </div>
 
@@ -150,7 +164,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       <span>Y. Zhang, W. Zhang, <b>M. Yuan</b>, L. Xu, C. Yan, T. Gong, H. Du</span>
       <span><i>IEEE Transactions on Mobile Computing (TMC), 2025</i></span>
     </div><br>
-    <a class="pub-button" href="https://ieeexplore.ieee.org/document/10829727" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">PDF</a>
+    <a class="pub-button" href="https://ieeexplore.ieee.org/document/10829727">PDF</a>
   </div>
 </div>
 
@@ -158,7 +172,6 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 🛠 Projects
 ======
-
 <div class="pub-item">
   <div class="pub-image">
     <img src="/images/project_MLLM.svg">
@@ -168,9 +181,9 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       Efficient Training and Inference of Multimodal Foundation Models
     </a>
     <div class="pub-meta">
-      <span>Multimodal foundation models, efficient training, inference optimization</span>
+      <span>Multimodal foundation models, efficient training and inference</span>
     </div><br>
-    <a class="pub-button" href="/portfolio/portfolio-1" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
+    <a class="pub-button" href="/portfolio/portfolio-1">Project Page</a>
   </div>
 </div>
 
@@ -183,9 +196,9 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       Lightweight and Efficient Model Design for Diverse Tasks
     </a>
     <div class="pub-meta">
-      <span>Model compression, efficient architectures, deployment</span>
+      <span>Model compression and efficient architecture design</span>
     </div><br>
-    <a class="pub-button" href="/portfolio/portfolio-2" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
+    <a class="pub-button" href="/portfolio/portfolio-2">Project Page</a>
   </div>
 </div>
 
