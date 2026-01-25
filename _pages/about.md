@@ -8,19 +8,21 @@ redirect_from:
 ---
 
 <style>
+/* ===== 每一篇 paper ===== */
 .pub-item {
   display: flex;
-  gap: 24px;
+  gap: 20px;
   align-items: center;
-  padding-bottom: 28px;
-  margin-bottom: 28px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
-/* 只在中间的 item 加分割线 */
+/* 只在中间的 paper 之间加线 */
 .pub-item:not(:last-child) {
   border-bottom: 1px solid #eee;
 }
 
+/* ===== 左侧图片 ===== */
 .pub-image {
   flex-shrink: 0;
 }
@@ -30,27 +32,29 @@ redirect_from:
   display: block;
 }
 
+/* ===== 右侧内容 ===== */
 .pub-content {
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.55;
 }
 
-/* ===== 标题：使用主题默认链接颜色 ===== */
+/* ===== 标题：主题默认链接颜色 ===== */
 .pub-title {
   font-size: 18px;
   font-weight: 600;
-  text-decoration: none;   /* 不强制蓝色 */
+  text-decoration: none;
 }
 
 .pub-title:hover {
   text-decoration: underline;
 }
 
-/* ===== 作者 & venue：item 点（桌面 + 手机） ===== */
+/* ===== 作者 & venue：item 点 ===== */
 .pub-meta span {
   display: block;
   position: relative;
   padding-left: 14px;
+  margin-top: 2px;
 }
 
 .pub-meta span::before {
@@ -60,16 +64,22 @@ redirect_from:
   color: #999;
 }
 
-/* ===== 按钮（仅桌面显示） ===== */
+/* ===== 按钮（桌面） ===== */
 .pub-button {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 5px 12px;
   background: #333;
   color: #fff;
   border-radius: 4px;
-  text-decoration: none;
-  margin-right: 10px;
+  text-decoration: none;      /* ❗ 永不下划线 */
+  margin-right: 8px;
+  margin-top: 8px;
   font-size: 14px;
+}
+
+.pub-button:hover {
+  text-decoration: none;      /* ❗ hover 也不下划线 */
+  opacity: 0.85;
 }
 
 /* ===== 手机端 ===== */
@@ -77,11 +87,17 @@ redirect_from:
   .pub-item {
     flex-direction: column-reverse;
     align-items: flex-start;
+    gap: 12px;                /* ❗ 去掉中间那坨空白 */
   }
 
   .pub-image img {
     width: 100%;
     max-width: 420px;
+  }
+
+  /* 图片和分割线的距离控制 */
+  .pub-image {
+    margin-bottom: 4px;
   }
 
   /* 手机端隐藏按钮 */
