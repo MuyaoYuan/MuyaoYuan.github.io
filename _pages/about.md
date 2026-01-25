@@ -71,14 +71,14 @@ redirect_from:
   background: #333;
   color: #fff;
   border-radius: 4px;
-  text-decoration: none;      /* ❗ 永不下划线 */
+  text-decoration: none !important;      /* ❗ 永不下划线 */
   margin-right: 8px;
   margin-top: 4px;
   font-size: 14px;
 }
 
 .pub-button:hover {
-  text-decoration: none;      /* ❗ hover 也不下划线 */
+  text-decoration: none !important;     /* ❗ hover 也不下划线 */
   opacity: 0.85;
 }
 
