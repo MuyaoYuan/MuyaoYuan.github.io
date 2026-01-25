@@ -256,7 +256,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
   • Supervisor: Prof. Weizhan Zhang  
 
 - **2018.09 – 2022.06**, Xi'an Jiaotong University — B.S. in Automation  
-  • GPA: 4.0/4.3 (Ranked 1th out of 180)  [[Transcript]](/images/transcript.jpg)
+  • GPA: 4.0/4.3 (Ranked 1st out of 180)  [[Transcript]](/images/transcript.jpg)
 
 ---
 
