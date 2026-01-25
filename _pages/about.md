@@ -7,6 +7,46 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.pub-item {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 28px;
+}
+
+.pub-image {
+  flex-shrink: 0;
+}
+
+.pub-image img {
+  width: 220px;
+  display: block;
+}
+
+.pub-content {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .pub-item {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+
+  .pub-image img {
+    width: 100%;
+    max-width: 420px;
+  }
+
+  .pub-content a {
+    display: inline-block;
+    margin-bottom: 8px;
+  }
+}
+</style>
+
 I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an Jiaotong University, under the guidance of [Prof. Weizhan Zhang](https://gr.xjtu.edu.cn/en/web/zhangwzh123). My research interests include **model compression**, **model adaptation**, and **MLLM**.
 
 🔥 News
@@ -16,96 +56,88 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 📝 Publications
 ======
-<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
-  <tr>
-    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
-      <img src="/images/infoclip.svg" width="220" style="display: block;"/>
-    </td>
-    <td style="vertical-align: middle; padding: 12px;">
-      <b style="font-size: 18px;">InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer.</b><br/>
-      <b>M. Yuan</b>, Y. Zhang, W. Zhang, L. Ma, Y. Gao, J. Ying, Y. Xin<br/>
-      <i>In: AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2026</i><br/><br/>
-      <a href="https://muyaoyuan.github.io/InfoCLIP-Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Project Page</a>
-      <a href="https://arxiv.org/pdf/2511.15967" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
-      <!-- <a href="https://github.com/MuyaoYuan/InfoSAM" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a> -->
-    </td>
-  </tr>
-</table>
+<<div class="pub-item">
+  <div class="pub-image">
+    <img src="/images/infoclip.svg" />
+  </div>
+  <div class="pub-content">
+    <b style="font-size:18px;">
+      InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer
+    </b><br/>
+    <b>M. Yuan</b>, Y. Zhang, W. Zhang, L. Ma, Y. Gao, J. Ying, Y. Xin<br/>
+    <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2026</i><br/><br/>
+    <a href="https://muyaoyuan.github.io/InfoCLIP-Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Project Page</a>
+    <a href="https://arxiv.org/pdf/2511.15967" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">PDF</a>
+  </div>
+</div>
 
-<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
-  <tr>
-    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
-      <img src="/images/infosam.svg" width="220" style="display: block;"/>
-    </td>
-    <td style="vertical-align: middle; padding: 12px;">
-      <b style="font-size: 18px;">InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective.</b><br/>
-      Y. Zhang*, <b>M. Yuan*</b>, W. Zhang, T. Gong, W. Wen, J. Ying, W. Shi<br/>
-      <i>In: International Conference on Machine Learning (<b>ICML Spotlight</b>), 2025</i><br/><br/>
-      <a href="https://muyaoyuan.github.io/InfoSAM_Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Project Page</a>
-      <a href="https://openreview.net/pdf?id=VpBBw1bL47" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
-      <a href="https://github.com/MuyaoYuan/InfoSAM" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a>
-    </td>
-  </tr>
-</table>
+<div class="pub-item">
+  <div class="pub-image">
+    <img src="/images/infosam.svg" />
+  </div>
+  <div class="pub-content">
+    <b style="font-size:18px;">
+      InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective
+    </b><br/>
+    Y. Zhang*, <b>M. Yuan*</b>, W. Zhang, T. Gong, W. Wen, J. Ying, W. Shi<br/>
+    <i>International Conference on Machine Learning (<b>ICML Spotlight</b>), 2025</i><br/><br/>
+    <a href="https://muyaoyuan.github.io/InfoSAM_Page/" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Project Page</a>
+    <a href="https://openreview.net/pdf?id=VpBBw1bL47" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
+    <a href="https://github.com/MuyaoYuan/InfoSAM" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a>
+  </div>
+</div>
 
-<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
-  <tr>
-    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
-      <img src="/images/ats-detr.svg" width="220" style="display: block;"/>
-    </td>
-    <td style="vertical-align: middle; padding: 12px;">
-      <b style="font-size: 18px;">Adaptive Token Selection for Efficient Detection Transformer with Dual Teacher Supervision.</b><br/>
-      <b>M. Yuan</b>, W. Zhang, C. Yan, T. Gong, Y. Zhang, J. Ying<br/>
-      <i>Knowledge-Based Systems (<b>KBS</b>), 2024</i><br/><br/>
-      <a href="https://doi.org/10.1016/j.knosys.2024.112036" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
-      <a href="https://github.com/MuyaoYuan/ATS-DETR" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a>
-    </td>
-  </tr>
-</table>
+<div class="pub-item">
+  <div class="pub-image">
+    <img src="/images/ats-detr.svg" />
+  </div>
+  <div class="pub-content">
+    <b style="font-size:18px;">
+      Adaptive Token Selection for Efficient Detection Transformer with Dual Teacher Supervision
+    </b><br/>
+    <b>M. Yuan</b>, W. Zhang, C. Yan, T. Gong, Y. Zhang, J. Ying<br/>
+    <i>Knowledge-Based Systems (<b>KBS</b>), 2024</i><br/><br/>
+    <a href="https://doi.org/10.1016/j.knosys.2024.112036" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
+    <a href="https://github.com/MuyaoYuan/ATS-DETR" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a>
+  </div>
+</div>
 
-<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
-  <tr>
-    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
-      <img src="/images/LCA.png" width="220" style="display: block;"/>
-    </td>
-    <td style="vertical-align: middle; padding: 12px;">
-      <b style="font-size: 18px;">Lightweight Configuration Adaptation with Multi-teacher Reinforcement Learning for Live Video Analytics.</b><br/>
-      Y. Zhang, W. Zhang, <b>M. Yuan</b>, L. Xu, C. Yan, T. Gong, H. Du<br/>
-      <i>IEEE Transactions on Mobile Computing (<b>TMC</b>), 2025</i><br/><br/>
-      <a href="https://ieeexplore.ieee.org/document/10829727" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">PDF</a>
-      <!-- <a href="link_to_tmc_code" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Code</a> -->
-    </td>
-  </tr>
-</table>
+<div class="pub-item">
+  <div class="pub-image">
+    <img src="/images/LCA.png" />
+  </div>
+  <div class="pub-content">
+    <b style="font-size:18px;">
+      Lightweight Configuration Adaptation with Multi-teacher Reinforcement Learning for Live Video Analytics
+    </b><br/>
+    Y. Zhang, W. Zhang, <b>M. Yuan</b>, L. Xu, C. Yan, T. Gong, H. Du<br/>
+    <i>IEEE Transactions on Mobile Computing (<b>TMC</b>), 2025</i><br/><br/>
+    <a href="https://ieeexplore.ieee.org/document/10829727" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">PDF</a>
+  </div>
+</div>
 
 
 🛠 Projects
 ======
-<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
-  <tr>
-    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
-      <img src="/images/project_MLLM.svg" width="220" style="display: block;"/>
-    </td>
-    <td style="vertical-align: middle; padding: 12px;">
-      <b style="font-size: 18px;">Efficient Training and Inference of Multimodal Foundation Models.</b><br/><br/>
-      <!-- <a href="https://github.com/MuyaoYuan/Edge-Adapt" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Code</a> -->
-      <a href="/portfolio/portfolio-1" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
-    </td>
-  </tr>
-</table>
+<div class="pub-item">
+  <div class="pub-image">
+    <img src="/images/project_MLLM.svg" />
+  </div>
+  <div class="pub-content">
+    <b style="font-size:18px;">Efficient Training and Inference of Multimodal Foundation Models</b><br/><br/>
+    <a href="/portfolio/portfolio-1" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
+  </div>
+</div>
 
-<table style="font-size: 16px; line-height: 1.6; width: 100%; margin-bottom: 24px;">
-  <tr>
-    <td style="width: 220px; vertical-align: middle; padding-right: 24px;">
-      <img src="/images/project_compression.png" width="220" style="display: block;"/>
-    </td>
-    <td style="vertical-align: middle; padding: 12px;">
-      <b style="font-size: 18px;">Lightweight and Efficient Model Design for Diverse Tasks.</b><br/><br/>
-      <!-- <a href="https://github.com/MuyaoYuan/Edge-Adapt" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none; margin-right:10px;">Code</a> -->
-      <a href="/portfolio/portfolio-2" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
-    </td>
-  </tr>
-</table>
+<div class="pub-item">
+  <div class="pub-image">
+    <img src="/images/project_compression.png" />
+  </div>
+  <div class="pub-content">
+    <b style="font-size:18px;">Lightweight and Efficient Model Design for Diverse Tasks</b><br/><br/>
+    <a href="/portfolio/portfolio-2" style="padding:6px 12px; background:#333; color:#fff; border-radius:4px; text-decoration:none;">Project Page</a>
+  </div>
+</div>
 
 
 💡 Selected Patents
