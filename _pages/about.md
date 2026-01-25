@@ -14,6 +14,10 @@ redirect_from:
   align-items: center;
   padding-bottom: 28px;
   margin-bottom: 28px;
+}
+
+/* 只在中间的 item 加分割线 */
+.pub-item:not(:last-child) {
   border-bottom: 1px solid #eee;
 }
 
@@ -31,12 +35,11 @@ redirect_from:
   line-height: 1.6;
 }
 
-/* ===== 标题：蓝色可点击 ===== */
+/* ===== 标题：使用主题默认链接颜色 ===== */
 .pub-title {
   font-size: 18px;
   font-weight: 600;
-  color: #1a0dab;        /* 标准学术蓝 */
-  text-decoration: none;
+  text-decoration: none;   /* 不强制蓝色 */
 }
 
 .pub-title:hover {
@@ -81,7 +84,7 @@ redirect_from:
     max-width: 420px;
   }
 
-  /* 手机端隐藏所有按钮 */
+  /* 手机端隐藏按钮 */
   .pub-button {
     display: none;
   }
