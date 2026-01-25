@@ -73,7 +73,7 @@ redirect_from:
   border-radius: 4px;
   text-decoration: none;      /* ❗ 永不下划线 */
   margin-right: 8px;
-  margin-top: 8px;
+  margin-top: 4px;
   font-size: 14px;
 }
 
@@ -87,7 +87,7 @@ redirect_from:
   .pub-item {
     flex-direction: column-reverse;
     align-items: flex-start;
-    gap: 12px;                /* ❗ 去掉中间那坨空白 */
+    gap: 6px;                /* ❗ 去掉中间那坨空白 */
   }
 
   .pub-image img {
