@@ -269,4 +269,4 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 🎓 Academic Service
 ======
-- Reviewer for CVPR, AAAI, TMC, Neural Computation, Neural Networks.
+- Reviewer for NeurIPS, ICML, CVPR, ECCV, AAAI.
