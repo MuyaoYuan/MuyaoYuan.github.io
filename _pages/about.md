@@ -113,7 +113,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 🔥 News
 ======
-- 📅 **[2026.3]** 🚀 I’m excited to join **WeChat AI** as a Research Intern. See you in Beijing!
+- 📅 **[2026.03]** 🚀 I’m excited to join **WeChat AI** as a Research Intern. See you in Beijing!
 - 📅 **[2025.11]** 🎉 Our paper titled _“InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer”_ has been accepted by **AAAI 2026**!
 - 📅 **[2025.05]** 🎉 Our paper titled _“InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective”_ has been accepted as a **Spotlight Poster** at **ICML 2025**!
 
@@ -253,7 +253,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 📖 Educations
 ======
-- **2022.09 – now**, Xi'an Jiaotong University —  PhD Candidate in Computer Science  
+- **2022.09 – Present**, Xi'an Jiaotong University —  PhD Candidate in Computer Science  
   • Supervisor: Prof. Weizhan Zhang  
 
 - **2018.09 – 2022.06**, Xi'an Jiaotong University — B.S. in Automation  
@@ -263,7 +263,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 🏢 Internships
 ======
-- **2026.3 – Present**, WeChat AI, Tencent, Beijing.
+- **2026.03 – Present**, WeChat AI, Tencent, Beijing.
 - **2025.10 – 2025.11**, E-surfing Vision Technology, Shanghai.
 - **2023.10 – 2024.11**, China Telecom Artificial Intelligence Technology, Beijing.
 
