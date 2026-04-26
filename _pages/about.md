@@ -107,12 +107,13 @@ redirect_from:
 }
 </style>
 
-I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an Jiaotong University, under the guidance of [Prof. Weizhan Zhang](https://gr.xjtu.edu.cn/en/web/zhangwzh123). My research interests include **model compression**, **model adaptation**, and **MLLM**.
+I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an Jiaotong University, under the guidance of [Prof. Weizhan Zhang](https://gr.xjtu.edu.cn/en/web/zhangwzh123). My research interests center on **MLLM**, **model adaptation**, and **efficient inference**.
 
 ---
 
 🔥 News
 ======
+- 📅 **[2026.3]** 🚀 I’m excited to join **WeChat AI** as a Research Intern. See you in Beijing!
 - 📅 **[2025.11]** 🎉 Our paper titled _“InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer”_ has been accepted by **AAAI 2026**!
 - 📅 **[2025.05]** 🎉 Our paper titled _“InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective”_ has been accepted as a **Spotlight Poster** at **ICML 2025**!
 
@@ -262,8 +263,9 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 🏢 Internships
 ======
-- **2023.10 – 2024.11**, China Telecom Artificial Intelligence Technology, Beijing.
+- **2026.3 – Present**, WeChat AI, Tencent, Beijing.
 - **2025.10 – 2025.11**, E-surfing Vision Technology, Shanghai.
+- **2023.10 – 2024.11**, China Telecom Artificial Intelligence Technology, Beijing.
 
 ---
 
