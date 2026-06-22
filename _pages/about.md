@@ -175,6 +175,21 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 <div class="pub-item">
   <div class="pub-image">
+    <img src="/images/VAST.png">
+  </div>
+  <div class="pub-content">
+    <a class="pub-title">
+      Mitigate Modality-Asymmetric Forgetting via Stabilizing Visual Representations in CLIP-Based Class-Incremental Learning
+    </a>
+    <div class="pub-meta">
+      <span>Y. Zhang, Y. Chen, X. Zhang, Z. Wang, W. Zhang, <b>M. Yuan</b>, H. Niu, L. Ma, Y. Gao, J. Zhou</span>
+      <span><i>European Conference on Computer Vision (ECCV), 2026</i></span>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-image">
     <img src="/images/LCA.png">
   </div>
   <div class="pub-content">
