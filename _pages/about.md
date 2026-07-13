@@ -132,7 +132,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     </a>
     <div class="pub-meta">
       <span><b>M. Yuan</b>, M. Jiao, J. Ying, W. Zhang, Y. Zhang, L. Ma, Y. Gao, H. Du</span>
-      <span><i>ACM Multimedia (ACM MM), 2026</i></span>
+      <span><i>ACM International Conference on Multimedia (ACM MM), 2026</i></span>
     </div>
   </div>
 </div>
