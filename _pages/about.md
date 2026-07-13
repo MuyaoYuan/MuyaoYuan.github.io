@@ -113,6 +113,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 🔥 News
 ======
+- 📅 **[2026.07]** 🎉 Our paper titled _“LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning”_ has been accepted by **ACM MM 2026**!
 - 📅 **[2026.03]** 🚀 I’m excited to join **WeChat AI** as a Research Intern. See you in Beijing!
 - 📅 **[2025.11]** 🎉 Our paper titled _“InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer”_ has been accepted by **AAAI 2026**!
 - 📅 **[2025.05]** 🎉 Our paper titled _“InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective”_ has been accepted as a **Spotlight Poster** at **ICML 2025**!
@@ -121,6 +122,21 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 
 📝 Publications
 ======
+<div class="pub-item">
+  <div class="pub-image">
+    <img src="/images/llavaflow.png">
+  </div>
+  <div class="pub-content">
+    <a class="pub-title">
+      LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning
+    </a>
+    <div class="pub-meta">
+      <span><b>M. Yuan</b>, M. Jiao, J. Ying, W. Zhang, Y. Zhang, L. Ma, Y. Gao, H. Du</span>
+      <span><i>ACM Multimedia (ACM MM), 2026</i></span>
+    </div>
+  </div>
+</div>
+
 <div class="pub-item">
   <div class="pub-image">
     <img src="/images/infoclip.svg">
