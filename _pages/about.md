@@ -114,6 +114,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
 🔥 News
 ======
 - 📅 **[2026.07]** 🎉 Our paper titled _“LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning”_ has been accepted by **ACM MM 2026**!
+- 📅 **[2026.07]** 🎉 Our paper titled _“Dynamic Adapters for Enabling Continuous Edge Video Analytics with Segment Anything Model”_ has been accepted by **IEEE TMC 2026**!
 - 📅 **[2026.03]** 🚀 I’m excited to join **WeChat AI** as a Research Intern. See you in Beijing!
 - 📅 **[2025.11]** 🎉 Our paper titled _“InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer”_ has been accepted by **AAAI 2026**!
 - 📅 **[2025.05]** 🎉 Our paper titled _“InfoSAM: Fine-Tuning the Segment Anything Model from an Information-Theoretic Perspective”_ has been accepted as a **Spotlight Poster** at **ICML 2025**!
@@ -152,6 +153,22 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     </div>
     <a class="pub-button" href="https://muyaoyuan.github.io/InfoCLIP-Page/">Project Page</a>
     <a class="pub-button" href="https://arxiv.org/pdf/2511.15967">PDF</a>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-image">
+    <img src="/images/AdaptiveSAM.png">
+  </div>
+  <div class="pub-content">
+    <a class="pub-title">
+      Dynamic Adapters for Enabling Continuous Edge Video Analytics with Segment Anything Model
+    </a>
+    <div class="pub-meta">
+      <span><b>M. Yuan</b>, Y. Zhang, W. Zhang, H. Du, Z. Wang, J. Ying, W. Shi</span>
+      <span><i>IEEE Transactions on Mobile Computing (TMC), 2026</i></span>
+    </div>
+    <a class="pub-button" href="https://github.com/MuyaoYuan/AdaptiveSAM">Code</a>
   </div>
 </div>
 
