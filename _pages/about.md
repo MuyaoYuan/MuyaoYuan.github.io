@@ -168,6 +168,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
       <span><b>M. Yuan</b>, Y. Zhang, W. Zhang, H. Du, Z. Wang, J. Ying, W. Shi</span>
       <span><i>IEEE Transactions on Mobile Computing (TMC), 2026</i></span>
     </div>
+    <a class="pub-button" href="https://doi.org/10.1109/TMC.2026.3717455">PDF</a>
     <a class="pub-button" href="https://github.com/MuyaoYuan/AdaptiveSAM">Code</a>
   </div>
 </div>
