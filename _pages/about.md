@@ -161,7 +161,7 @@ I am **Muyao Yuan** (袁慕遥), a Ph.D. candidate in the MOEKLINNS Lab at Xi'an
     <img src="/images/AdaptiveSAM.png">
   </div>
   <div class="pub-content">
-    <a class="pub-title">
+    <a class="pub-title" href="https://doi.org/10.1109/TMC.2026.3717455">
       Dynamic Adapters for Enabling Continuous Edge Video Analytics with Segment Anything Model
     </a>
     <div class="pub-meta">
